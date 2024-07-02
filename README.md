@@ -13,8 +13,8 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 + **Google Icons**: Para utilizar íconos personalizados.
 
 ### Vista previa del proyecto
-![Demo](imagenes/
+![Demo](imagenes/iniciopinterest.png)
 
 ### Contacto
-LinkedIn: [Lizette Cetina Díaz](https://www.linkedin.com/in/lizette-cetina-d%C3%ADaz-a2285b310/)
-Correo: lizette.cetina.diaz@gmail.com
++ LinkedIn: [Lizette Cetina Díaz](https://www.linkedin.com/in/lizette-cetina-d%C3%ADaz-a2285b310/)
++ Correo: lizette.cetina.diaz@gmail.com
